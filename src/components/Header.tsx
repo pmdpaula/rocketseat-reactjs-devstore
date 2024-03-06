@@ -32,7 +32,7 @@ export function Header() {
         >
           <span className="text-sm">Account</span>
           <Image
-            src="https://github.com/diego3g.png"
+            src="https://github.com/pmdpaula.png"
             className="h-6 w-6 rounded-full"
             width={24}
             height={24}
